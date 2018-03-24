@@ -26,5 +26,4 @@ def find_the_cheese(array)
   elsif array.include?(cheese_types[2])
     cheese_types[2]
   end
-    
 end
